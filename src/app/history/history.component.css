@@ -1,0 +1,135 @@
+.body{
+    overflow-x: hidden;
+}
+h1{
+
+    font-family: Neue Helvetica,Helvetica,sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 1.75rem;
+    letter-spacing: .21429em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+}
+
+.backgroundImage{
+
+    width: 100%;
+}
+
+.Font{
+
+    font-family: Monotype Garamond,Garamond,serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.125rem;
+    letter-spacing: .02778em;
+    line-height: 1.5em;
+}
+.History{
+
+    background-color: black;
+}
+
+
+
+
+
+.image
+{ 
+    margin-left: 25%;
+    text-align: center;
+    width:50%;
+    height: 50%;
+ 
+}
+.images{
+    margin-left: 25%;
+    width:60%;
+    height: 100%;
+}
+h4 {
+color: white;
+    font-family: Monotype Garamond,Garamond,serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.125rem;
+    letter-spacing: .02778em;
+    
+}
+h3{
+    text-transform: uppercase;
+    color: white;   
+    font-family: Neue Helvetica,Helvetica,sans-serif;
+    font-weight: 750;
+    font-style: normal;
+    font-size: 1rem;
+    letter-spacing: .25em;
+    
+    
+}
+.hr{
+color: rgb(238, 238, 238);  
+font-weight: bold;
+height: 2px;    
+position: relative;
+transform: translateX(30px);
+width:250px;
+ margin: auto;
+}
+.text{
+color: white;
+    font-family: Monotype Garamond,Garamond,serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.125rem;
+    letter-spacing: .02778em;
+    line-height: 1.5em;
+}
+
+.slider{
+
+    width: 75%;
+    height: 50%;
+    
+}
+.carousel-caption{
+
+    background:linear-gradient(to bottom, rgba(0,0,0,.4),
+    rgba(0,0,0,.4));
+}
+h5{
+    color: rgb(255, 255, 255);
+}
+
+.sliderP{
+    color: rgb(255, 255, 255);
+}
+.Person{
+
+    font-family: Monotype Garamond,Garamond,serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 2rem;
+
+    
+}
+.PersonN{
+    margin-left: 65px;
+}
+h5{
+    font-size: 15px;
+
+    font-family: Neue Helvetica,Helvetica,sans-serif;
+    
+}
+h6{
+    font-size: 17px;
+    font-family: Neue Helvetica,Helvetica,sans-serif;
+}
+
+
+
+
+
+

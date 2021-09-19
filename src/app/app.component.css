@@ -1,0 +1,124 @@
+.logo{
+
+    width: 110px;
+    height: 100px;
+
+}
+
+.nav-link{
+
+    font-size: 1.1rem;
+    font-family: 'Times New Roman', Times, serif;   
+  
+}
+.nav-link:hover{
+
+    border-bottom: 2px solid rgb(0, 0, 0);
+    transition: border-bottom 0.5s ease-in-out;
+}
+
+
+
+/* Footer Design */
+
+footer{
+    font-size : 1.3rem;
+
+}
+footer .follow-us{
+    margin-top: 18px;
+
+
+}
+footer .follow-us .facebook i:hover{
+    color: rgb(20, 49, 129);
+    transition : color 0.5s ease-out;
+
+}
+footer .follow-us .twitter i:hover{
+    color: rgb(6, 189, 235);
+    transition : color 0.5s ease-out;
+
+}
+
+footer .follow-us .instagram i:hover{
+    color: rgb(109, 70, 79);
+    transition : color 0.5s ease-out;
+
+}
+footer .follow-us .youtube i:hover{
+    color: rgb(158, 58, 58);
+    transition : color 0.5s ease-out;
+
+}
+
+.follow-us{
+  
+    font-family: 'Times New Roman', Times, serif;   
+    color: rgb(143, 142, 142) !important;
+    text-decoration: none;
+}
+.copyright{
+    
+   
+    font-family: Neue Helvetica,Helvetica,sans-serif; 
+    margin-top: 15px;
+}
+.footerLogo{
+
+    text-align: center;
+    width: 20%;
+}
+
+h1{ 
+    color: rgb(255, 255, 255) !important;
+    font-family: Monotype Garamond,Garamond,serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 25px;
+   
+}
+.li{
+
+    font-family: Neue Helvetica,Helvetica,sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(104, 104, 104) !important;
+}
+.footerp{
+    font-family: Neue Helvetica,Helvetica,sans-serif;
+    color: rgb(104, 104, 104) !important;
+    
+}
+
+/* Responsive Design */
+/* Mobile Phone */
+@media (max-width :767.98px){ 
+    .navbar-expand-md .navbar-nav{
+        margin-top:20px;
+    }
+    .navbar-expand-md .navbar-nav .nav-item .nav-link{
+        text-align: center;
+        width:20%;
+        margin:auto;
+       
+    }
+    .navbar-expand-md .navbar-nav .nav-item .nav-link:hover{
+        border:none;
+        background-color:#000;
+        color:#fff !important;
+        border-radius:20px;
+    }
+    .footerLogo{
+
+        text-align: center;
+        width: 70%;
+    }
+    .footerp{
+        font-family: Neue Helvetica,Helvetica,sans-serif;
+        color: rgb(104, 104, 104) !important;
+        font-size: small !important;
+    }
+    
+}
